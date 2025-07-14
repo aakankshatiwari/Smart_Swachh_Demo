@@ -17,7 +17,7 @@ from PIL import Image
 
 st.set_page_config(page_title="Smart Swachh", layout="wide")
 
-st.title("🚮 Smart Swachh: AI-Powered Municipal Management")
+st.title("🚮 Smart Swachh App by AI Citizen Lab")
 st.caption("Empowering Citizens • Enhancing Accountability • Transforming Municipal Services")
 
 # Simulated AI models
