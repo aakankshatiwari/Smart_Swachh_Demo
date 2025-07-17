@@ -37,7 +37,7 @@ if "reports" not in st.session_state:
 # PAGE SETUP
 # ----------------------------
 st.set_page_config(page_title="Smart Swachh", layout="wide")
-st.title("🧹 Smart Swachh : App for Bharat")
+st.title("🧹 Smart Swachh : App for Bharat (by AI Citizen Lab")
 
 # ----------------------------
 # TABS: Citizen & Officer Login
